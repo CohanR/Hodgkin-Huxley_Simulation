@@ -57,9 +57,6 @@ The code creates an animated GIF representing the action potential as a function
 ![The Hodgkin-Huxley Model Simulation by Remy Cohan](hodgkin_huxley_sim_RemyCohan.gif)
 
 
+This project is licensed under the GPLv3
+Remy Cohan 2023
 
-© Remy Cohan 2023
-
----
-
-Save this content as `README.md` in the same directory as your Python script to provide a detailed overview of the Hodgkin-Huxley Model and a comprehensive explanation of your code.
