@@ -94,5 +94,5 @@ def update(frame):
 animation = FuncAnimation(fig, update, frames=len(t)//10, interval=5, blit=True)
 
 # Save the animation as a GIF with a higher DPI and faster speed
-animation.save('hodgkin_huxley_action_potential_high_quality_faster_reduced.gif', writer='pillow', fps=60, dpi=200)
+animation.save('hodgkin_huxley_Remy_Cohan.gif', writer='pillow', fps=60, dpi=200)
 
