@@ -1,12 +1,11 @@
-nstrate and simulate The Hodgkin-Huxley model for a group of students.You can use any IDE to run the code, but I recommend Jupyter Lab. Make sure you install the dependencies. Remy Cohan, July 2023.
 
-# Hodgkin-Huxley Model - Action Potential README
+# The Hodgkin-Huxley Model -  README
 I wrote this script to demonstrate and simulate The Hodgkin-Huxley model for a group of students.You can use any IDE to run the code, but I recommend Jupyter Lab. Make sure you install the dependencies. Remy Cohan, July 2023.
 
 ## Introduction
 The Hodgkin-Huxley Model describes how action potentials in neurons are initiated and propagated. Developed by Alan Hodgkin and Andrew Huxley in 1952 based on their experiments on the giant axon of the squid, this model describes the electrical characteristics of the cell membrane and won them the Nobel Prize in Physiology or Medicine in 1963.
 
-### Neurophysiology of Hodgkin-Huxley
+### Neurophysiology of The Hodgkin-Huxley Model
 
 #### 1. **Action Potentials**:
 An action potential is a rapid rise and subsequent fall in voltage or membrane potential across a cellular membrane. It's a fundamental signal in the nervous system, enabling the transmission of information over long distances.
